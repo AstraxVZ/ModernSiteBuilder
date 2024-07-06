@@ -9,7 +9,7 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 
 ---
 
-# USAGE
+## USAGE
 
 In your HTML file, you don't need to write anything, you just need this code:
 ```html
@@ -40,7 +40,7 @@ Don't worry about the width and height of the contents container, it is automati
 The default particles configuration is included in this repository, and it has to be named `particles.json` or it won't work.
 You can generate a configuration at https://vincentgarreau.com/particles.js/ or manually edit the `particles.json` included.
 
-# FUNCTIONS
+## FUNCTIONS
 
 | FUNCTION   | DESCRIPTION                                                                | USAGE                                                                   |
 |------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|
