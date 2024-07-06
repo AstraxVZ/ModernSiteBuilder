@@ -19,6 +19,8 @@ The only way to fix that for browsers other than Firefox, you need to upload you
 Alternatively, you can use the URL to particles.js.
 </del>
 
+**Fixed now, using jsDelivr now**
+
 ---
 
 # USAGE
