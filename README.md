@@ -28,11 +28,11 @@ In your HTML file, you don't need to write anything, you just need this code:
 You also need to run that code, so you need to create an `app.js` file. It will be used for creating the elements.
 ```javascript
 const sections = [
-    { title: 'Section Title', content: 'Contents' },
-    { title: 'Another Section Title', content: 'More Contents' },
+    { title: 'Section', content: 'It works!' },
+    { title: 'Section 2', content: 'This is the second section!' },
 ];
 
-MSBuilder.createPage('Example Website', sections, 'Footer Text', false);
+MSBuilder.createPage('Example Website', 'Example Title', sections, 'Footer Test', true);
 ```
 
 Don't worry about the width and height of the contents container, it is automatically set based on the amount of contents. The line breaks are also set, it's all in the `style.css` file.
@@ -42,6 +42,6 @@ You can generate a configuration at https://vincentgarreau.com/particles.js/ or 
 
 # FUNCTIONS
 
-| FUNCTION   | DESCRIPTION                                                                | USAGE                                                          |
-|------------|----------------------------------------------------------------------------|----------------------------------------------------------------|
-| createPage | Creates a page with the specified parameters. Currently the only function. | MSBuilder.createPage(title, sections, footerTxt, useParticles) |
+| FUNCTION   | DESCRIPTION                                                                | USAGE                                                                   |
+|------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| createPage | Creates a page with the specified parameters. Currently the only function. | MSBuilder.createPage(title, ctTitle, sections, footerTxt, useParticles) |
