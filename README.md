@@ -6,7 +6,7 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green" /> <img alt="Version" src="https://img.shields.io/badge/Version-1.0.0-yellow" />
 
 <del>
-<h1>READ THIS BEFORE USING</h1>
+<h2>READ THIS BEFORE USING</h2>
 This plugin will most likely return an error if you enable `useParticles`. Disable it if it's causing problems, it is because of your browser.
 <h2>FIXES</h2>
 <h3>Firefox</h3>
