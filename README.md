@@ -2,7 +2,6 @@
 A simple javascript plugin to create a website in less than a minute! Currently only supports text sections, but later I will add more features to it.
 
 [Demo website](https://astraxvz.github.io/ModernSiteBuilder/)
-[button url="https://astraxvz.github.io/ModernSiteBuilder/"]
 
 ---
 
