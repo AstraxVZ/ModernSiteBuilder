@@ -33,4 +33,12 @@ In your HTML file, you don't need to write anything, you just need this code:
 </html>
 ```
 
-![image](https://github.com/AstraxVZ/ModernSiteBuilder/assets/91541572/45088d33-e944-472c-9a3c-b29461b6b42b)
+You also need to run that code, so you need to create an `app.js` file. It will be used for creating the elements.
+```javascript
+const sections = [
+    { title: 'Section', content: 'It works!' },
+    { title: 'Section 2', content: 'This is the second section!' },
+];
+
+MSBuilder.createPage('Example Website', sections, 'footer test', true);
+```
