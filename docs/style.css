@@ -58,7 +58,7 @@ footer {
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    word-break: break-all;
+    word-break: break-word;
 }
 
 .content-container h1, .content-container h2, .content-container p, .content-container hr, .content-container footer {
