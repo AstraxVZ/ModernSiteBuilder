@@ -20,8 +20,17 @@ The only way to fix that for browsers other than Firefox, you need to publish yo
 # USAGE
 
 In your HTML file, you don't need to write anything, you just need this code:
-```diff
-- diff
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="MSBuilder.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+    
+</body>
+</html>
 ```
 
 ![image](https://github.com/AstraxVZ/ModernSiteBuilder/assets/91541572/45088d33-e944-472c-9a3c-b29461b6b42b)
