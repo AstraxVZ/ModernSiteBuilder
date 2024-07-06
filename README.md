@@ -35,6 +35,9 @@ MSBuilder.createPage('Example Website', sections, 'Footer Text', false);
 
 Don't worry about the width and height of the contents container, it is automatically set based on the amount of contents. The line breaks are also set, it's all in the `style.css` file.
 
+The default particles configuration is included in this repository, and it has to be named `particles.json` or it won't work.
+You can generate a configuration at https://vincentgarreau.com/particles.js/ or manually edit the `particles.json` included.
+
 # FUNCTIONS
 
 | FUNCTION   | DESCRIPTION                                                                | USAGE                                                          |
