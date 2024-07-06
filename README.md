@@ -13,7 +13,7 @@ Go to `about:config` and search `security.fileuri.strict_origin_policy`. Disable
 ### Chrome
 It's harder to disable that for Chrome, since it doesn't have a built-in config URL. I don't use Chrome, so I don't know how to fix that for Chrome, but I will try to find a fix. For now, there's no working fix that I know.
 
-The only way to fix that for browsers other than Firefox, you need to publish your website to Github and publish it to Github Sites.
+The only way to fix that for browsers other than Firefox, you need to upload your website to Github and publish it to Github Sites.
 
 ---
 
