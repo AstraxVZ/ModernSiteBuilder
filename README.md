@@ -3,6 +3,8 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 
 [Demo website](https://astraxvz.github.io/ModernSiteBuilder/demo/)
 
+![image](https://github.com/AstraxVZ/ModernSiteBuilder/assets/91541572/4c0d31ed-439b-4f17-99b8-d9e8f21a5374)
+
 ---
 
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green" /> <img alt="Version" src="https://img.shields.io/badge/Version-1.1.0-yellow" />
