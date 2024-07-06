@@ -40,6 +40,8 @@ Don't worry about the width and height of the contents container, it is automati
 The default particles configuration is included in this repository, and it has to be named `particles.json` or it won't work.
 You can generate a configuration at https://vincentgarreau.com/particles.js/ or manually edit the `particles.json` included.
 
+### Do note that it with particles enabled, it may sometimes incorrectly scale the particles and cause them to appear too big on the website, so to fix that simply just refresh the page.
+
 ## FUNCTIONS
 
 | FUNCTION   | DESCRIPTION                                                                | USAGE                                                                   |
