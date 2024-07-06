@@ -9,6 +9,8 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 
 ---
 
+**This project uses [Vincent Garreau](https://github.com/VincentGarreau/)'s `particles.js`, repository: https://github.com/VincentGarreau/particles.js/**
+
 ## USAGE
 
 In your HTML file, you don't need to write anything, you just need this code:
