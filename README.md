@@ -9,8 +9,6 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 
 ---
 
-**This project uses [particles.js](https://github.com/VincentGarreau/particles.js/)**
-
 ## USAGE
 
 In your HTML file, you don't need to write anything, you just need this code:
@@ -49,3 +47,7 @@ You can generate a configuration at https://vincentgarreau.com/particles.js/ or 
 | FUNCTION   | DESCRIPTION                                                                | USAGE                                                                   |
 |------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | createPage | Creates a page with the specified parameters. Currently the only function. | MSBuilder.createPage(title, ctTitle, sections, footerTxt, useParticles) |
+
+## DEPENDENCIES (FOR NODE.JS)
+
+`particles.js` (https://github.com/VincentGarreau/particles.js/)
