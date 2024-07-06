@@ -15,4 +15,8 @@ It's harder to disable that for Chrome, since it doesn't have a built-in config 
 
 The only way to fix that for browsers other than Firefox, you need to publish your website to Github and publish it to Github Sites.
 
+<hr>
+
 # USAGE
+
+  Ub
