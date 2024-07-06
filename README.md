@@ -5,7 +5,7 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 
 ![image](https://github.com/AstraxVZ/ModernSiteBuilder/assets/91541572/4c0d31ed-439b-4f17-99b8-d9e8f21a5374)
 
-<a href="url"><img src="https://github.com/AstraxVZ/ModernSiteBuilder/assets/91541572/4c0d31ed-439b-4f17-99b8-d9e8f21a5374" style="border-radius:50%"></a>
+<a href="url"><img src="https://github.com/AstraxVZ/ModernSiteBuilder/assets/91541572/4c0d31ed-439b-4f17-99b8-d9e8f21a5374" height=auto width=auto style="border-radius:50%"></a>
 
 ---
 
