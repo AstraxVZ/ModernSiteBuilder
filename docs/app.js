@@ -3,4 +3,4 @@ const sections = [
     { title: 'Section 2', content: 'This is the second section!' },
 ];
 
-MSBuilder.createPage('Example Website', sections, 'footer test', true);
+MSBuilder.createPage('Example Website', 'Example Title', sections, 'Footer Test', true);
