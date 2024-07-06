@@ -6,7 +6,7 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green" /> <img alt="Version" src="https://img.shields.io/badge/Version-1.0.0-yellow" />
 
 ## READ THIS BEFORE USING
-This plugin will most likely return an error if you enable <code>useParticles</code>. Disable it if it's causing problems, it is because of your browser.
+This plugin will most likely return an error if you enable <code>useParticles</code>. `testt` Disable it if it's causing problems, it is because of your browser.
 ## FIXES
 ### Firefox
 Go to <code>about:config</code> and search <code>security.fileuri.strict_origin_policy</code>. Disable that and it should be fixed.
