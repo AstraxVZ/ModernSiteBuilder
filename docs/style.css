@@ -16,6 +16,7 @@ h1, h2, p, hr, footer {
 h1 {
     text-align: center;
     margin-top: 0;
+    color: #333;
 }
 h2, p {
     color: #333;
