@@ -1,7 +1,7 @@
 # ModernSiteBuilder
 A simple javascript plugin to create a website in less than a minute! Currently only supports text sections, but later I will add more features to it.
 
-<hr>
+---
 
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green" /> <img alt="Version" src="https://img.shields.io/badge/Version-1.0.0-yellow" />
 
@@ -15,7 +15,7 @@ It's harder to disable that for Chrome, since it doesn't have a built-in config 
 
 The only way to fix that for browsers other than Firefox, you need to publish your website to Github and publish it to Github Sites.
 
-<hr>
+---
 
 # USAGE
 
@@ -42,3 +42,6 @@ const sections = [
 
 MSBuilder.createPage('Example Website', sections, 'footer test', true);
 ```
+
+# FUNCTIONS
+
