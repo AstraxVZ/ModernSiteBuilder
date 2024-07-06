@@ -45,3 +45,6 @@ MSBuilder.createPage('Example Website', sections, 'footer test', true);
 
 # FUNCTIONS
 
+| FUNCTION   | DESCRIPTION                                                                | USAGE                                                          |
+|------------|----------------------------------------------------------------------------|----------------------------------------------------------------|
+| createPage | Creates a page with the specified parameters. Currently the only function. | MSBuilder.createPage(title, sections, footerTxt, useParticles) |
