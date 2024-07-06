@@ -2,11 +2,11 @@
 MSBuilder.js
 
 Made by AstraxVZ
-Version 1.0.0
+Version 1.1.0
 */
 
 window.MSBuilder = {
-    createPage: function(title, sections, footerTxt, useParticles) {
+    createPage: function(title, ctTitle, sections, footerTxt, useParticles) {
         window.onload = function() {
             const head = document.head;
 
@@ -65,6 +65,12 @@ window.MSBuilder = {
             const contentContainer = document.createElement('div');
             contentContainer.className = 'content-container';
             body.appendChild(contentContainer);
+
+            const contentsTitle = document.createElement('h1');
+            contentsTitle.textContent = ctTitle;
+            contentContainer.appendChild(contentsTitle);
+
+            contentContainer.appendChild(document.createElement('hr'));
 
             sections.forEach(section => {
                 const sectionTitle = document.createElement('h2');
