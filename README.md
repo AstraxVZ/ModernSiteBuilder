@@ -25,7 +25,7 @@ In your HTML file, you don't need to write anything, you just need this code:
 </html>
 ```
 
-You also need to run that code, so you need to create an `app.js` file. It will be used for creating the elements.
+You also need to create the page contents, so you need to create an `app.js` file. It will be used for creating the elements.
 ```javascript
 const sections = [
     { title: 'Section', content: 'It works!' },
