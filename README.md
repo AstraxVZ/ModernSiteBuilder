@@ -43,6 +43,8 @@ const sections = [
 MSBuilder.createPage('Example Website', sections, 'Footer Text', false);
 ```
 
+Don't worry about the width and height of the contents container, it is automatically set based on the amount of contents. The line breaks are also set, it's all in the `style.css` file.
+
 # FUNCTIONS
 
 | FUNCTION   | DESCRIPTION                                                                | USAGE                                                          |
