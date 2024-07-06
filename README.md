@@ -36,11 +36,11 @@ In your HTML file, you don't need to write anything, you just need this code:
 You also need to run that code, so you need to create an `app.js` file. It will be used for creating the elements.
 ```javascript
 const sections = [
-    { title: 'Section', content: 'It works!' },
-    { title: 'Section 2', content: 'This is the second section!' },
+    { title: 'Section Title', content: 'Contents' },
+    { title: 'Another Section Title', content: 'More Contents' },
 ];
 
-MSBuilder.createPage('Example Website', sections, 'footer test', true);
+MSBuilder.createPage('Example Website', sections, 'Footer Text', false);
 ```
 
 # FUNCTIONS
