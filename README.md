@@ -7,7 +7,7 @@ A simple javascript plugin to create a website in less than a minute! Currently 
 
 ---
 
-<img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green" /> <img alt="Version" src="https://img.shields.io/badge/Version-1.1.0-yellow" />
+<img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green" /> <img alt="Version" src="https://img.shields.io/badge/Version-1.1.2-yellow" />
 
 ---
 
